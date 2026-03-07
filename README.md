@@ -30,3 +30,11 @@
 
   <img width="50" height="50" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>  <img width="50" height="50" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/>
 ---
+
+## 📚 Currently Learning
+
+- Python Web Development with Flask
+- PHP for backend development
+- Advanced JavaScript and frontend techniques
+
+---
