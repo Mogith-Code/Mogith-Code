@@ -38,3 +38,11 @@
 - Advanced JavaScript and frontend techniques
 
 ---
+
+## 📫 Connect with Me
+
+  [<img width="100" height="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](http://www.linkedin.com/in/mogith-chandrakumar)   [<img width="100" height="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:mogith2002@gmail.com)   [<img width="100" height="120" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/profile/mojithkumar04)   [<img width="100" height="120" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>](https://leetcode.com/u/Mogith_Hack/)   [<img width="100" height="120" src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white"/>](https://www.sololearn.com/profile/34503905/?ref=app)
+  	
+---
+
+_Thanks for visiting my profile! Let's connect and build something amazing together._
